@@ -26,4 +26,3 @@ fullstack = {
     "Fullstack" : course["Frontend"] + course["Backend"]
 }
 print(fullstack)
-
